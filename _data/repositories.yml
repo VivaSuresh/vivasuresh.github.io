@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vivasuresh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - VivaSuresh/eigenfish_species
+  - UCSD-E4E/FishSense
+  - UCSD-E4E/fishsense-lite-python-pipeline
+  - UCSD-E4E/fishsense-tools

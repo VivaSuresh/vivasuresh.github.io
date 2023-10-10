@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Vivaswat
 middle_name:
 last_name: Suresh
-email: vivaprojects@gmail.com
+email: vivaswat.suresh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Viva's experience and project portfolio! 
 footer_text: >
@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  LinkedIn and email are the best ways to reach me!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -119,10 +119,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: # blog_name will be displayed in your blog page
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+blog_description:
+permalink:
 
 # Pagination
 pagination:
