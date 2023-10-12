@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autonomous Underwater Laser Detection
-description: Automatically detecting a laser dot aunderwater.
+description: Automatically detecting a laser dot underwater.
 img: assets/img/laser_project_background.jpg
 importance: 1
 category: work
