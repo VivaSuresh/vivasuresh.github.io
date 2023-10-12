@@ -59,7 +59,7 @@ Many different approaches were tried, to no avail. A laser dot in an image SHOUL
     Example of a failed interest point detection, using the SIFT detector. The purple circle is the detected laser, which is clearly wrong.
 </div>
 
-Thus, I decided that this was a machine learning problem. At first, I tried a regression network. Because the laser is rigidly attached to the camera, and because the position and orientation of the laser are known, it was possible to put a "mask" over an image. The laser is guaranteed to always lie within this mask.
+Thus, I decided that this was a machine learning problem. At first, I tried a regression network. Because the laser is rigidly attached to the camera, and because the position and orientation of the laser are known, it was possible to put a "mask" over an image. The laser is guaranteed to always lie within this mask. This was just to limit the amount of information going into the network.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
