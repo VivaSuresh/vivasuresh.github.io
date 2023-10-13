@@ -3,6 +3,5 @@ github_users:
 
 github_repos:
   - VivaSuresh/eigenfish_species
-  - UCSD-E4E/FishSense
   - UCSD-E4E/fishsense-lite-python-pipeline
-  - UCSD-E4E/fishsense-tools
+  - VivaSuresh/fishsense-tools

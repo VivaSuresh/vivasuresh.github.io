@@ -32,7 +32,7 @@
       "summary": "FishSense is a research project that is focused on leveraging underwater cameras and computer vision techniques to monitor fish population health. The project's goal is to autonomously detect and measure the lengths of fish in their home environments, with minimally invasive techniques.",
       "highlights": [
         "Developed a python software pipeline for novel laser-assisted underwater fish measurement.",
-        "Modeled parallax between laser and camera and trained a convolutional neural network to automatically detect laser in image RAWs.",
+        "Modeled parallax between laser and camera and trained a convolutional neural network to automatically detect laser in image RAWs. Achieved 98% accuracy in laser detection.",
         "Developed a program to synchronize two GoPro videos based on an impulse noise using time series analysis techniques to create a stereo camera.",
         "Implemented a non-machine learning approach to fish species identification using the Eigenface algorithm to measure fish population health.",
         "Gathered data and trained a YOLOv4 Object Detection network for the sake of autonomous fish tracking.",

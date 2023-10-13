@@ -2,9 +2,9 @@
 layout: page
 title: project 4
 description: another without an image
-img:
-importance: 3
-category: fun
+img: assets/img/weather_prediction.jpg
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

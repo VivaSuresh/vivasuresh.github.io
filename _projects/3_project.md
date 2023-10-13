@@ -3,7 +3,7 @@ layout: page
 title: Anomaly Detection in Seismic Data
 description: Using machine learning to find anomalies in high dimensional data.
 img: assets/img/spectrogram.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: false
 ---
@@ -35,4 +35,4 @@ There are many known methods of dimensionality reduction that retain important f
     A summary of the autoencoder model that was used. 
 </div>
 
-In the end, the autencoder was able to detect **all 143 anomalies** present in the test data!
+After 200 epochs, the autoencoder was ready. All training data was downsampled using the autoencoder, and the mean and standard deviation of the training dataset was found. From there, test data was downsampled and checked against the training mean and std. If the test data was an outlier, then it would be marked as an anomaly. In the end, the autencoder was able to detect **all 143 anomalies** present in the test data!
