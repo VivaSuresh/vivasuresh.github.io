@@ -2,7 +2,7 @@
 layout: page
 title: Anomaly Detection in Seismic Data
 description: Using machine learning to find anomalies in high dimensional data.
-img: assets/img/spectrogram.jpg
+img: assets/img/spectrogram.png
 importance: 3
 category: work
 giscus_comments: false
