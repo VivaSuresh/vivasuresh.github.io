@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-**Project Description**
+**Project Description:**
 
 Autonomous vehicles are an incredibly large industry, with an international market size estimated at USD 121.78 billion in 2022. Scene understanding is extremely important for autonomous driving safety and consistency. Semantic segmentation is one technique used for scene understanding. Cameras record roads, pedestrians, buildings, and other important objects, and each pixel within an image is assigned to a different object class. 
 
@@ -22,7 +22,7 @@ Autonomous vehicles are an incredibly large industry, with an international mark
 
 This is fundamentally a machine learning problem, as there is no known way to do this with non-deep-learning methods. However, even with deep learning, data becomes an issue. A lack of good data often limits deep learning models from performing well. Thus, the purpose of this project is to determine which segmentation models perform best given the same training and test data.
 
-**Method**
+**Method:**
 
 After significant literature review, a few models stood out. FCN, U-Net, U-Net++, DeepLab, GCN, and SegNet were among those that were interesting. All of these models are filled to the brim with convolutional neural networks, which are able to extract data through a variety of different filters. 
 
