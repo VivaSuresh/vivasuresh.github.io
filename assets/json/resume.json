@@ -31,13 +31,13 @@
       "endDate": "now",
       "summary": "FishSense is a research project that is focused on leveraging underwater cameras and computer vision techniques to monitor fish population health. The project's goal is to autonomously detect and measure the lengths of fish in their home environments, with minimally invasive techniques.",
       "highlights": [
-        "Developed a python software pipeline for novel laser-assisted underwater fish measurement.",
+        "Currently developing a Rust pipeline for novel laser-assisted underwater fish length measurement. Previously developed a Python pipeline for the same purpose.",
         "Modeled parallax between laser and camera and trained a convolutional neural network to automatically detect laser in image RAWs. Achieved 98% accuracy in laser detection.",
         "Developed a program to synchronize two GoPro videos based on an impulse noise using time series analysis techniques to create a stereo camera.",
         "Implemented a non-machine learning approach to fish species identification using the Eigenface algorithm to measure fish population health.",
         "Gathered data and trained a YOLOv4 Object Detection network for the sake of autonomous fish tracking.",
         "Created and developed a depth-based segmentation algorithm to segment fish within a bounding box using data from a commercial stereo camera.",
-        "Tools/Techniques: Python, PyTorch, Tensorflow 2.0, Keras, Matrix Profiles, Stumpy"
+        "Tools/Techniques: Rust, Python, PyTorch, Tensorflow 2.0, Keras, Matrix Profiles, Stumpy, C/C++"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "highlights": [
         "Created UI changes for oceanographers to better model data on argovis servers.",
         "Leveraged modern Python libraries to upgrade outdated algorithm for storing data in MongoDB documents for ease of developer understanding and future development.",
-        "Tools/Techniques: Typescript, Angular, Docker, Docker Compose, Bash"
+        "Tools/Techniques: Typescript, Angular, Docker, Docker Compose, Bash, MongoDB"
       ]
     }
   ],
