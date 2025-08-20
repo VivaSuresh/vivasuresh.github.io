@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Software Developer @FishSense UCSD</a>
+subtitle: computer vision @ dwe.ai
 
 profile:
   align: right
