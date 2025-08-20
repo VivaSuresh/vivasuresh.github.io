@@ -24,14 +24,29 @@
   },
   "work": [
     {
+      "name": "@ DeepWater Exploration Inc.",
+      "position": "Founding Computer Vision Engineer",
+      "url": "https://dwe.ai",
+      "startDate": "1-2024",
+      "endDate": "now",
+      "summary": "The next generation of subsea computer vision - the underwater vision company",
+      "highlights": [
+        "Architected DeepWater Exploration’s C++ computer vision SDK with full backend and GPU support, enabling seamless plug-and-play integration with DWE cameras and reducing customer integration time from several weeks to hours. Sold to major ROV companies.",
+        "Trained a deep learning stereo vision model on the cloud to deploy locally, using synthetic underwater data and custom CUDA/TensorRT optimizations. Achieved the fastest, most power-efficient underwater stereo system in the world with 1% error at 5 m at 30 FPS.",
+        "Engineered a CUDA-optimized Semi-Global Matching implementation with cooperative threading and aggressive CUDA optimizations, achieving 60 FPS on 8 SMs vs 1–2 FPS in OpenCV.",
+        "Designing a deep learning–based SLAM system for underwater imaging with multithreaded C++ and CUDA-accelerated 3D reconstruction. Enables real-time mapping for autonomous navigation and marine applications.",
+        " Built a deep learning–based underwater segmentation system to remove noisy background water, resolving customer issues with poor reconstructions and improving 3D vision accuracy.",
+        "Tools/Techniques: C/C++, CUDA, Python, PyTorch, ONNX, TensorRT"
+      ]
+    },
+    {
       "name": "@ FishSense UCSD",
       "position": "Computer Vision Researcher",
       "url": "https://e4e.ucsd.edu/fishsense",
       "startDate": "1-2021",
-      "endDate": "now",
+      "endDate": "1-2024",
       "summary": "FishSense is a research project that is focused on leveraging underwater cameras and computer vision techniques to monitor fish population health. The project's goal is to autonomously detect and measure the lengths of fish in their home environments, with minimally invasive techniques.",
       "highlights": [
-        "Currently developing a Rust pipeline for novel laser-assisted underwater fish length measurement. Previously developed a Python pipeline for the same purpose.",
         "Modeled parallax between laser and camera and trained a convolutional neural network to automatically detect laser in image RAWs. Achieved 98% accuracy in laser detection.",
         "Developed a program to synchronize two GoPro videos based on an impulse noise using time series analysis techniques to create a stereo camera.",
         "Implemented a non-machine learning approach to fish species identification using the Eigenface algorithm to measure fish population health.",
@@ -73,11 +88,7 @@
     {
       "institution": "University of California, San Diego",
       "url": "https://cse.ucsd.edu/",
-      "area": "GPA: 3.6",
       "studyType": "BS Computer Science, Mathematics",
-      "startDate": "9-2020",
-      "endDate": "12-2023",
-      "score": "3.6",
       "courses": []
     }
   ],
