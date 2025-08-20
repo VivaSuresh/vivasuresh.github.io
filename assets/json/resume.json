@@ -27,8 +27,8 @@
       "name": "@ DeepWater Exploration Inc.",
       "position": "Founding Computer Vision Engineer",
       "url": "https://dwe.ai",
-      "startDate": "1-2024",
-      "endDate": "now",
+      "startDate": "2024-01",
+      "endDate": "Present",
       "summary": "The next generation of subsea computer vision - the underwater vision company",
       "highlights": [
         "Architected DeepWater Exploration’s C++ computer vision SDK with full backend and GPU support, enabling seamless plug-and-play integration with DWE cameras and reducing customer integration time from several weeks to hours. Sold to major ROV companies.",
@@ -43,8 +43,8 @@
       "name": "@ FishSense UCSD",
       "position": "Computer Vision Researcher",
       "url": "https://e4e.ucsd.edu/fishsense",
-      "startDate": "1-2021",
-      "endDate": "1-2024",
+      "startDate": "2021-01",
+      "endDate": "2024-01",
       "summary": "FishSense is a research project that is focused on leveraging underwater cameras and computer vision techniques to monitor fish population health. The project's goal is to autonomously detect and measure the lengths of fish in their home environments, with minimally invasive techniques.",
       "highlights": [
         "Modeled parallax between laser and camera and trained a convolutional neural network to automatically detect laser in image RAWs. Achieved 98% accuracy in laser detection.",
@@ -59,27 +59,14 @@
       "name": "@ Applied Materials",
       "position": "Data Science Intern",
       "url": "https://www.appliedmaterials.com/",
-      "startDate": "6-2022",
-      "endDate": "12-2022",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
       "summary": "Worked in Applied Materials R&D. Analyzed decades of data collected from various semiconductor manufacturing machines using various ML techniques.",
       "highlights": [
         "Conducted an expansive scientific literature review on cutting edge time series analysis techniques to discover viable techniques for data analysis.",
         "Leveraged unsupervised learning techniques on semiconductor wafer data in order to detect discords and motifs within expansive datasets",
         "Implemented a fast similarity search algorithm to quickly comb through decades of data to find similar subsequences to trace anomalies through time.",
         "Tools/Techniques: Python, Stumpy, Matrix Profiles, FFT, DFT"
-      ]
-    },
-    {
-      "name": "@ Argovis",
-      "position": "Software Engineer",
-      "url": "argovis.colorado.edu",
-      "startDate": "2-2021",
-      "endDate": "2-2022",
-      "summary": "Argovis is a web application that is used to search for, download, and visualize ocean data from thousands of robotic floats around the ocean.",
-      "highlights": [
-        "Created UI changes for oceanographers to better model data on argovis servers.",
-        "Leveraged modern Python libraries to upgrade outdated algorithm for storing data in MongoDB documents for ease of developer understanding and future development.",
-        "Tools/Techniques: Typescript, Angular, Docker, Docker Compose, Bash, MongoDB"
       ]
     }
   ],
